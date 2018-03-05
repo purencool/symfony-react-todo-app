@@ -1,0 +1,4 @@
+vagrant_ip: 10.20.1.200
+beet_domain: todo.local
+beet_root: "{{beet_base}}/public_html/public/"
+php_version: "7.1"
